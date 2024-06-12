@@ -1,4 +1,4 @@
-# Powershell v7.4.2 with WSMan
+# Linux (Alpine) based Powershell container v7.4.2 with WSMan
 Dockerfile uses alpine:3.17 to build a Linux based Powershell container with WSMan embedded in it
 You can use this container via Gitlab (linux based)Runners using the following code
 ```
